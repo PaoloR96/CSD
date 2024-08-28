@@ -37,7 +37,6 @@ uint8_t rx_buffer[BUFFER_SIZE];
 int rx_index = 0;
 bool rx_complete = false;
 
-
 uint8_t rx_buffer1[BUFFER_SIZE];
 int rx_index1 = 0;
 bool rx_complete1 = false;
